@@ -1,6 +1,1 @@
-{
-  "hello_world_test.py::HelloWorldTests::test_hello_with_other_sample_name": true,
-  "hello_world_test.py::HelloWorldTests::test_hello_with_sample_name": true,
-  "hello_world_test.py::HelloWorldTests::test_hello_with_umlaut_name": true,
-  "hello_world_test.py::HelloWorldTests::test_hello_without_name": true
-}
+{}

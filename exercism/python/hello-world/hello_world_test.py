@@ -33,4 +33,5 @@ class HelloWorldTests(unittest.TestCase):
         )
 
 if __name__ == '__main__':
+    hello_world.hello('Bob')
     unittest.main()
